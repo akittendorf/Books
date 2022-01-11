@@ -8,6 +8,9 @@ Save the modified data to an worksheets in an xlsx differentiated by publication
 REQUIREMENTS:
 books.py was written using Python version 3.9.7.
 
+MAINTENANCE:
+This repository will likely not be updated after 1/11/2022.
+
 CONTENTS: 
 books.csv, books.py, books_by_century.xlsx,
 
